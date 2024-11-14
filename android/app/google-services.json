@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317157321169",
+    "project_id": "perfexdemoapp",
+    "storage_bucket": "perfexdemoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317157321169:android:7629fa7859c5087fdc98f0",
+        "android_client_info": {
+          "package_name": "com.flutex.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDF1tmqRwB_6ZVh30KRNN4lt5gw-8PX84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
